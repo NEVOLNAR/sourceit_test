@@ -1,6 +1,9 @@
 class Scratch {
     public static void main(String[] args) {
-        System.out.println("Hello word");
+
+        String a = ("Hello word");
+        String b = ("!");
+        System.out.println(a+b);
 
     }
 }
