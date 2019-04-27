@@ -3,7 +3,7 @@ class Scratch {
 
         String a = ("Hello word");
         String b = ("!");
-        System.out.println(a+b);
+        System.out.println(a+b+"and other");
 
     }
 }
